@@ -1,1 +1,1 @@
-Edició branca-A.
+Edició branca-B.
